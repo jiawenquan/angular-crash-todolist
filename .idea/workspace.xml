@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e374feab-c272-40eb-8ded-615d9ce36e95" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/add-todo/add-todo.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/add-todo/add-todo.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/add-todo/add-todo.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/add-todo/add-todo.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/layout/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/layout/header/header.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/layout/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/layout/header/header.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/pages/about/about.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/pages/about/about.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/todo-item/todo-item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/todo-item/todo-item.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/todo-item/todo-item.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/todo-item/todo-item.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/todos/todos.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/todos/todos.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/components/todos/todos.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/components/todos/todos.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/services/todo.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/services/todo.service.ts" afterDir="false" />
-    </list>
+    <list default="true" id="e374feab-c272-40eb-8ded-615d9ce36e95" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/dist/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,7 +33,7 @@
         <entry file="file://$PROJECT_DIR$/src/app/services/todo.service.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="468">
-              <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+              <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
               <folding>
                 <element signature="e#0#41#0" expanded="true" />
               </folding>
@@ -53,11 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -66,16 +54,16 @@
         <entry file="file://$PROJECT_DIR$/src/app/components/todos/todos.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+              <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app/components/add-todo/add-todo.component.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="44" />
+            <state relative-caret-position="216">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -98,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/src/app/components/todo-item/todo-item.component.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -107,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/src/app/components/todos/todos.component.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding>
                 <element signature="e#0#48#0" expanded="true" />
               </folding>
@@ -310,12 +298,12 @@
       <option name="presentableId" value="Default" />
       <updated>1553673229693</updated>
       <workItem from="1553673238424" duration="7133000" />
-      <workItem from="1553740380097" duration="6725000" />
+      <workItem from="1553740380097" duration="7001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13858000" />
+    <option name="totallyTimeSpent" value="14134000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="386" y="15" width="1283" height="1041" extended-state="0" />
@@ -462,20 +450,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/components/add-todo/add-todo.component.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="44" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/components/todo-item/todo-item.component.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/components/todo-item/todo-item.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -502,14 +483,14 @@
     <entry file="file://$PROJECT_DIR$/src/app/components/todos/todos.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="10" column="43" lean-forward="true" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
+          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/components/todos/todos.component.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding>
             <element signature="e#0#48#0" expanded="true" />
           </folding>
@@ -519,7 +500,7 @@
     <entry file="file://$PROJECT_DIR$/src/app/services/todo.service.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
@@ -529,7 +510,14 @@
     <entry file="file://$PROJECT_DIR$/src/app/app.component.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/add-todo/add-todo.component.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
