@@ -1,4 +1,8 @@
 <form class="form" (ngSubmit)="onSubmit()">
-  <input type="text" name="title" [(ngModel)]="title" placeholder="Add Todo...">
-  <input type="submit" value="Submit" class="btn">
+    <input type="text" name="title" [(ngModel)]="title" placeholder="Add Todo...">
+    <input type="submit" value="Submit" class="btn">
 </form>
+
+<!--1、(ngSubmit)="onSubmit()" 绑定 Submit事件-->
+
+<!--2、[(ngModel)]="title" 数据双向绑定 绑定 title 字段-->

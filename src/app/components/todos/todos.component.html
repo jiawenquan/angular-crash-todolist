@@ -1,7 +1,11 @@
 <app-add-todo (addTodo)="addTodo($event)"></app-add-todo>
-<app-todo-item 
-  *ngFor="let todo of todos" 
-  [todo]="todo"
-  (deleteTodo)="deleteTodo($event)"
-  >
+<app-todo-item
+        *ngFor="let todo of todos"
+        [todo]="todo"
+        (deleteTodo)="deleteTodo($event)"
+>
 </app-todo-item>
+
+<!--1、(addTodo)="addTodo($event)"  订阅 addTodo 事件触发-->
+<!--2、(deleteTodo)="deleteTodo($event)" 订阅 deleteTodo($event) 事件触发-->
+<!--3、[todo]="todo" @Input()  输入 todo 字段-->
